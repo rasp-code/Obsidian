@@ -1,5 +1,8 @@
 ---
 type: creation
+status: dormant
+created: 2026-07-16
+updated: 2026-07-22
 tags:
   - organisation
   - meta
@@ -7,9 +10,4 @@ tags:
   - duties
   - health
   - work
-created: 2026-07-16
-updated:
-  - 2026-07-16
-  - 2026-07-19
-status: dormant
 ---

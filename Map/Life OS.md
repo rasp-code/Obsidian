@@ -1,5 +1,8 @@
 ---
 type: creation
+status: budding
+created: 2026-07-16
+updated: 2026-07-22
 tags:
   - organisation
   - lifestyle
@@ -9,14 +12,6 @@ tags:
   - system
   - routines
   - os
-created: 2026-07-16
-updated:
-  - 2026-07-16
-  - 2026-07-17
-  - 2026-07-19
-  - 2026-07-21
-  - 2026-07-22
-status: budding
 todo: fill Tools section
 ---
 # My Life OS
@@ -113,4 +108,6 @@ Something you just jot down as it comes to mind. It's not urgent, not planned, n
 ### Proton Drive
 
 ### Proton Mail
+
+### Git
 

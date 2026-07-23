@@ -1,5 +1,8 @@
 ---
 type: creation
+status: evergreen
+created: 2026-07-17
+updated: 2026-07-22
 tags:
   - organisation
   - routines
@@ -7,12 +10,6 @@ tags:
   - habits
   - health
   - daily
-created: 2026-07-17
-updated:
-  - 2026-07-17
-  - 2026-07-19
-  - 2026-07-22
-status: evergreen
 ---
 # My Routines
 ---

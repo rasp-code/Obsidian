@@ -1,5 +1,8 @@
 ---
 type: creation
+status: dormant
+created: 2026-07-19
+updated: 2026-07-22
 tags:
   - daily
   - routines
@@ -8,8 +11,4 @@ tags:
   - habits
   - sport
   - exercise
-created: 2026-07-19
-updated:
-  - 2026-07-19
-status: dormant
 ---

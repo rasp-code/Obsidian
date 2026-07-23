@@ -1,7 +1,7 @@
 ---
 type: <% tp.file.folder(false) === "" ? "fleeting" : tp.file.folder(false).toLowerCase() %>
-tags: []
+status: dormant
 created: <% tp.file.creation_date("YYYY-MM-DD") %>
 updated: []
-status: dormant
+tags: []
 ---

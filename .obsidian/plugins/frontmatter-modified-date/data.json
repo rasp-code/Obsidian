@@ -3,7 +3,7 @@
   "createdDateProperty": "",
   "momentFormat": "YYYY-MM-DD",
   "momentLocale": "",
-  "storeHistoryLog": true,
+  "storeHistoryLog": false,
   "historyNewestFirst": false,
   "historyMaxItems": 0,
   "excludedFolders": [
