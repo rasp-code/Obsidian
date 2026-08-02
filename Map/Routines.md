@@ -1,19 +1,8 @@
 ---
-type: creation
-status: evergreen
 created: 2026-07-17
-updated: 2026-07-22
-tags:
-  - organisation
-  - routines
-  - lifestyle
-  - habits
-  - health
-  - daily
+updated: 2026-08-02
 ---
-# My Routines
----
-Theses are my default routines, but depending on the circumstances each can be slightly different (e.g. weekly chores if I have roommates, no need to take meds if I'm not curently following a treatment, etc.).
+Theses are my default routines, but depending on the circumstances each can be slightly different (e.g. weekly chores if I have roommates, no need to take meds if I'm not currently following a treatment, etc.).
 ### Morning
 - consistent wake-up time
 - meds
@@ -21,9 +10,9 @@ Theses are my default routines, but depending on the circumstances each can be s
 - skincare
 - tooth brushing
 ### Evening
-- [[Physical Exercice|physical exercice]]
+- [[My Physical Exercice|physical exercice]]
 - shower
-- [[Skincare|skincare]]
+- [[My Skincare|skincare]]
 ### Bedtime
 - quite consistent bedtime
 - meds
