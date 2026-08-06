@@ -1,9 +1,10 @@
 ---
-created: 2026-08-02
-updated: 2026-08-02
+created: 2026-08-04
+updated: 2026-08-04
 ---
-# High Hemoglobin Counts
+# Blood test results
 ---
+Every blood test shows an abnormal hemoglobin count.
 
 | Date     | Value (g/dL) |
 | -------- | ------------ |
@@ -12,5 +13,3 @@ updated: 2026-08-02
 | 02/28/26 | 17.8         |
 | 03/27/26 | 18.8         |
 | 06/08/26 | 18.4         |
-
-
