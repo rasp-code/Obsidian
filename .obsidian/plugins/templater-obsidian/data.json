@@ -15,8 +15,8 @@
   "enable_folder_templates": false,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Templates",
+      "template": "Templates/base.md"
     }
   ],
   "enable_file_templates": true,
