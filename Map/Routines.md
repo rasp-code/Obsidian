@@ -1,6 +1,6 @@
 ---
 created: 2026-07-17
-updated: 2026-08-02
+updated: 2026-08-31
 ---
 Theses are my default routines, but depending on the circumstances each can be slightly different (e.g. weekly chores if I have roommates, no need to take meds if I'm not currently following a treatment, etc.).
 ### Morning
@@ -21,7 +21,9 @@ Theses are my default routines, but depending on the circumstances each can be s
 
 ---
 ### Weekly
+- refill pillbox
 - clothes washing
 - sheets and towels washing
 - room cleaning
+- flat chores
 
