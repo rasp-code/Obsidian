@@ -1,6 +1,6 @@
 ---
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 Goal: match objects to each other (e.g. products to user, user to user, virus mutation to cell).
 
@@ -13,3 +13,8 @@ A distance function is thus needed:
 Because we don't have all the information about the user, we build a personalized profile.
 
 Auction-based recommenders: utilize competitive bidding mechanisms to allocate recommendation slots for the adds you'll see.
+
+To measure distance between products, we need to turn their features into vectors:
+- categories into codes
+- text into embedded vectors (e.g. [[TF-IDF]])
+- etc.
