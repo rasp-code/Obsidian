@@ -1,14 +1,13 @@
 ---
 created: 2026-08-02
-updated: 2026-08-04
+updated: 2026-10-05
 ---
 # Polysomnography Results
 ---
-Every event measure is per hour.
 
-| Date     | MA  | PLMI (asleep, not awake) | PLMA |
-| -------- | --- | ------------------------ | ---- |
-| 11/04/25 | 28  | 27                       | 18   |
+| Date     | MA   | PLMI (asleep, not awake) | PLMA |
+| -------- | ---- | ------------------------ | ---- |
+| 11/04/25 | 28/h | 27/h                     | 18/h |
 
 
 
