@@ -1,0 +1,105 @@
+{
+  "shellPath": "",
+  "shellPathWin": "",
+  "shellPathMac": "",
+  "shellPathLinux": "",
+  "startupCommand": "",
+  "fontSize": 14,
+  "fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+  "lineHeight": 1,
+  "minimumContrastRatio": 4.5,
+  "theme": "auto",
+  "backgroundColor": "",
+  "cursorBlink": true,
+  "cursorStyle": "block",
+  "copyOnSelect": false,
+  "scrollback": 5000,
+  "ribbonIcon": "terminal",
+  "defaultLocation": "bottom",
+  "notifyOnCompletion": false,
+  "notificationSound": "beep",
+  "notificationVolume": 50,
+  "searchShortcut": "Ctrl+Alt+F",
+  "persistBuffer": true,
+  "recentSessionsMax": 10,
+  "recentSessions": [
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "/Users/ambroise/Obsidian",
+      "bufferSerial": "(base) ambroise@macbookair Obsidian % git log\r\n\u001b[33mcommit dedc2c8e95e3b071f3a30030d664be3b277a552d (\u001b[36;1mHEAD -> \u001b[32mmain\u001b[33;22m, \u001b[31;1morigin/main\u001b[33;22m)\r\n\u001b[0mAuthor: Ambroise Durst <ambroise.durst@epita.fr>\r\nDate:   Thu Oct 15 09:29:51 2026 +0200\r\n\r\n    vault backup: 2026-10-15 09:29:51\r\n    \r\n    Affected files:\r\n    Logs/2026-10-12.md\r\n    Logs/2026-10-13.md\r\n    Logs/2026-10-14.md\r\n    Logs/2026-10-15.md\r\n\r\n\u001b[33mcommit b4fa16badff88107380859f59e4863fd4d13e158\r\n\u001b[0mAuthor: Ambroise Durst <ambroise.durst@epita.fr>\r\nDate:   Mon Oct 12 16:00:56 2026 +0200\r\n\r\n    vault backup: 2026-10-12 16:00:56\r\n    \r\n    Affected files:\r\n    Logs/2026-10-09.md\r\n    Logs/2026-10-10.md\r\n    Logs/2026-10-11.md\r\n    Logs/2026-10-12.md\r\n\r\n\u001b[33mcommit ff248791112ae9ea5ea2e758a4b12efa7155505b\r\n\u001b[0mAuthor: Ambroise Durst <ambroise.durst@epita.fr>\r\nDate:   Fri Oct 9 17:44:17 2026 +0200\r\n\r\n    vault backup: 2026-10-09 17:44:17\r\n    \r\n    Affected files:\r\n    .obsidian/graph.json\r\n    Logs/2026-10-07.md\r\n    Logs/2026-10-08.md\r\n    Logs/2026-10-09.md\r\n\r\n\u001b[33mcommit 5461d8953dfe77edb4df5f742402d4722df2ae7e\r\n\u001b[0mAuthor: Ambroise Durst <ambroise.durst@epita.fr>\r\nDate:   Tue Oct 6 23:56:31 2026 +0200\r\n\r\n    vault backup: 2026-10-06 23:56:31\r\n    \r\n    Affected files:\r\n    Book/EPITA.md\r\n    Book/IT/AI/CNN.md\r\n    Logs/2026-10-05.md\r\n    Logs/2026-10-06.md\r\n\r\n\u001b[33mcommit e52f7d92cc296c7524e1bcc45e81358d94e37326\r\n\u001b[0mAuthor: Ambroise Durst <ambroise.durst@epita.fr>\r\nDate:   Mon Oct 5 17:39:02 2026 +0200\r\n\r\n    vault backup: 2026-10-05 17:39:02\r\n    \r\n    Affected files:\r\n    Logs/2026-10-04.md\r\n    Map/Health Records/Anomalies/Sleep/High PLM Count.md\r\n    Map/Lifestyle/Housework/Laundry.md\r\n\r\n\u001b[33mcommit 9de10a92e0fdb79cb507c3d5a1316bb02a8f2fa7\r\n\u001b[0mAuthor: Ambroise Durst <ambroise.durst@epita.fr>\r\nDate:   Fri Oct 2 21:08:32 2026 +0200\r\n\r\n    vault backup: 2026-10-02 21:08:32\r\n    \r\n    Affected files:\r\n    Logs/2026-09-30.md\r\n    Logs/2026-10-01.md\r\n    Logs/2026-10-02.md\r\n    Map/Other/Movies I've watched.md\r\n\r\n\u001b[33mcommit 6ca28c269e90f5b07f6a76dbdc3e4ed86d7f1bd3\r\n\u001b[0mAuthor: Ambroise Durst <ambroise.durst@epita.fr>\r\nDate:   Wed Sep 30 14:21:47 2026 +0200\r\n\r\n    vault backup: 2026-09-30 14:21:47\r\n    \r\n    Affected files:\r\n    Book/IT/AI/Reinforcement Learning.md\r\n\r\n\u001b[33mcommit 8fbc9cbb46233f540f448b6409448bb45bb95a84\r\n\u001b[0mAuthor: Ambroise Durst <ambroise.durst@epita.fr>\r\nDate:   Sun Sep 20 05:56:47 2026 +0200\r\n\r\n    vault backup: 2026-09-20 05:56:46\r\n    \r\n:\u001b[?1h\u001b[?66h",
+      "closedAt": 1792321477484
+    },
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "/Users/ambroise/Obsidian",
+      "bufferSerial": "(base) ambroise@MacBook-Air-de-Ambroise Obsidian % ls\r\nBook\u001b[12CLogs\u001b[12CMap\u001b[13CTemplates\r\n(base) ambroise@MacBook-Air-de-Ambroise Obsidian % cd ..\r\n(base) ambroise@MacBook-Air-de-Ambroise ~ % l\r\nzsh: command not found: l\r\ns\u001b[7;1m%\u001b[0m                                                                            \r\n(base) ambroise@MacBook-Air-de-Ambroise ~ % ls\r\nApplications\u001b[4CEPITA\u001b[11CMusic\u001b[11CPublic\r\nDesktop\u001b[9CLibrary\u001b[9CObsidian\u001b[8Cdb_psg\r\nDocuments\u001b[7CLife\u001b[12CParallels\u001b[7Crevision\r\nDownloads\u001b[7CMovies\u001b[10CPictures\r\n(base) ambroise@MacBook-Air-de-Ambroise ~ % cd Obsidian \r\n(base) ambroise@MacBook-Air-de-Ambroise Obsidian % ls\r\nBook\u001b[12CLogs\u001b[12CMap\u001b[13CTemplates\r\n(base) ambroise@MacBook-Air-de-Ambroise Obsidian % \r\n(base) ambroise@MacBook-Air-de-Ambroise Obsidian % cd ../Life \r\n(base) ambroise@MacBook-Air-de-Ambroise Life % ls\r\nBook\u001b[12CPortfolio\u001b[7CStrongbox\r\nMap\u001b[13CQuests\r\n(base) ambroise@MacBook-Air-de-Ambroise Life % ls -l\r\ntotal 0\r\nlrwxr-xr-x  1 ambroise  staff  16 Jul 23 10:52 Book -> ../Obsidian/Book\r\nlrwxr-xr-x  1 ambroise  staff  15 Jul 23 10:52 Map -> ../Obsidian/Map\r\nlrwxr-xr-x  1 ambroise  staff  90 Jul 23 10:54 Portfolio -> /Users/ambroise/Library/CloudStorage/ProtonDrive-ambroise.durst@proton.me-folder/Portfolio\r\nlrwxr-xr-x  1 ambroise  staff  18 Jul 23 10:56 Quests -> ../Obsidian/Quests\r\nlrwxr-xr-x  1 ambroise  staff  90 Jul 23 10:54 Strongbox -> /Users/ambroise/Library/CloudStorage/ProtonDrive-ambroise.durst@proton.me-folder/Strongbox\r\n(base) ambroise@MacBook-Air-de-Ambroise Life %  \r\n(base) ambroise@MacBook-Air-de-Ambroise Life % \r\n(base) ambroise@MacBook-Air-de-Ambroise Life % clean\r\nzsh: command not found: clean\r\n(base) ambroise@MacBook-Air-de-Ambroise Life % deactivate\r\nDeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.\r\n(base) ambroise@MacBook-Air-de-Ambroise Life % l\r\nzsh: command not found: l\r\n(base) ambroise@MacBook-Air-de-Ambroise Life % conda deactivate\r\nambroise@MacBook-Air-de-Ambroise Life % ls\r\nBook\u001b[12CPortfolio\u001b[7CStrongbox\r\nMap\u001b[13CQuests\r\nambroise@MacBook-Air-de-Ambroise Life % cd ..\r\nambroise@MacBook-Air-de-Ambroise ~ % cd Obsidian \r\nambroise@MacBook-Air-de-Ambroise Obsidian % ls\r\nBook\u001b[12CLogs\u001b[12CMap\u001b[13CTemplates\r\nambroise@MacBook-Air-de-Ambroise Obsidian % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   Logs/2026-10-15.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/lean-terminal/\r\n\u001b[8CLogs/2026-10-16.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nambroise@MacBook-Air-de-Ambroise Obsidian % git diff Logs \r\n\u001b[1mdiff --git a/Logs/2026-10-15.md b/Logs/2026-10-15.md\r\nindex 8356a56..6ab6891 100644\r\n--- a/Logs/2026-10-15.md\r\n+++ b/Logs/2026-10-15.md\r\n\u001b[36;22m@@ -1,6 +1,6 @@\r\n\u001b[0m ---\r\n created: 2026-10-15\r\n\u001b[31m-updated: 2026-10-15\r\n\u001b[32m+updated: 2026-10-16\r\n\u001b[0m ---\r\n # Contenu CV\r\n **Skills**\r\nambroise@MacBook-Air-de-Ambroise Obsidian % git log\r\n\u001b[33mcommit dedc2c8e95e3b071f3a30030d664be3b277a552d (\u001b[36;1mHEAD -> \u001b[32mmain\u001b[33;22m, \u001b[31;1morigin/main\u001b[33;22m)\r\n\u001b[0mAuthor: Ambroise Durst <ambroise.durst@epita.fr>\r\nDate:   Thu Oct 15 09:29:51 2026 +0200\r\n\r\n    vault backup: 2026-10-15 09:29:51\r\n    \r\n    Affected files:\r\n    Logs/2026-10-12.md\r\n    Logs/2026-10-13.md\r\n    Logs/2026-10-14.md\r\n    Logs/2026-10-15.md\r\n\r\n\u001b[33mcommit b4fa16badff88107380859f59e4863fd4d13e158\r\n\u001b[0mAuthor: Ambroise Durst <ambroise.durst@epita.fr>\r\nDate:   Mon Oct 12 16:00:56 2026 +0200\r\n\r\n    vault backup: 2026-10-12 16:00:56\r\nambroise@MacBook-Air-de-Ambroise Obsidian % \r\nambroise@MacBook-Air-de-Ambroise Obsidian % git reset --soft dedc2c8e95e3b071f\r\n3a30030d664be3b277a552d\r\nambroise@MacBook-Air-de-Ambroise Obsidian % ls\r\nBook\u001b[12CLogs\u001b[12CMap\u001b[13CTemplates\r\nambroise@MacBook-Air-de-Ambroise Obsidian % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   Logs/2026-10-15.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/lean-terminal/\r\n\u001b[8CLogs/2026-10-16.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nambroise@MacBook-Air-de-Ambroise Obsidian % git diff Logs \r\n\u001b[1mdiff --git a/Logs/2026-10-15.md b/Logs/2026-10-15.md\r\nindex 8356a56..6ab6891 100644\r\n--- a/Logs/2026-10-15.md\r\n+++ b/Logs/2026-10-15.md\r\n\u001b[36;22m@@ -1,6 +1,6 @@\r\n\u001b[0m ---\r\n created: 2026-10-15\r\n\u001b[31m-updated: 2026-10-15\r\n\u001b[32m+updated: 2026-10-16\r\n\u001b[0m ---\r\n # Contenu CV\r\n **Skills**\r\nambroise@MacBook-Air-de-Ambroise Obsidian % \r\nambroise@MacBook-Air-de-Ambroise Obsidian % \r\nambroise@MacBook-Air-de-Ambroise Obsidian % \r\nambroise@MacBook-Air-de-Ambroise Obsidian % \r\nambroise@MacBook-Air-de-Ambroise Obsidian % git log\r\n\u001b[33mcommit dedc2c8e95e3b071f3a30030d664be3b277a552d (\u001b[36;1mHEAD -> \u001b[32mmain\u001b[33;22m, \u001b[31;1morigin/main\u001b[33;22m)\r\n\u001b[0mAuthor: Ambroise Durst <ambroise.durst@epita.fr>\r\nDate:   Thu Oct 15 09:29:51 2026 +0200\r\n\r\n    vault backup: 2026-10-15 09:29:51\r\n    \r\n    Affected files:\r\n    Logs/2026-10-12.md\r\n    Logs/2026-10-13.md\r\n    Logs/2026-10-14.md\r\n    Logs/2026-10-15.md\r\n\r\n\u001b[33mcommit b4fa16badff88107380859f59e4863fd4d13e158\r\n\u001b[0mAuthor: Ambroise Durst <ambroise.durst@epita.fr>\r\nDate:   Mon Oct 12 16:00:56 2026 +0200\r\n\r\n    vault backup: 2026-10-12 16:00:56\r\n:\u001b[?1h\u001b[?66h",
+      "closedAt": 1792141711415
+    },
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "/Users/ambroise/Obsidian",
+      "bufferSerial": "\r\n\u001b[33mTerminal binaries not installed.\r\n\u001b[0mGo to Settings → Terminal to download them.\u001b[1B\u001b[43D",
+      "closedAt": 1792141408070
+    }
+  ],
+  "enableClaudeIntegration": false,
+  "claudeSessionsDir": "",
+  "claudeRegistryPath": "claude-sessions.md",
+  "claudeSessionsMax": 25,
+  "tabColorTintsBackground": true,
+  "tabColors": [
+    {
+      "name": "None",
+      "value": "",
+      "tintStrength": 0,
+      "builtin": true
+    },
+    {
+      "name": "Vermilion",
+      "value": "#FC3634",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Sky Blue",
+      "value": "#25D0F7",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Gold",
+      "value": "#FFD700",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Mint",
+      "value": "#18BC9C",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Azure",
+      "value": "#007BFF",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Purple",
+      "value": "#A991D4",
+      "tintStrength": 12,
+      "builtin": true
+    }
+  ],
+  "tabBarPosition": "top",
+  "wikiLinkAutocomplete": false,
+  "wikiLinkInsertMode": "wikilink",
+  "clickableFilePaths": true,
+  "readlineShortcuts": true,
+  "keepFocusOnEscape": true,
+  "showUpdateNotice": true,
+  "lastSeenVersion": "1.5.0"
+}
