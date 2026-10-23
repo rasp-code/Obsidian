@@ -1,6 +1,6 @@
 ---
-created: 2026-09-11
-updated: 2026-10-06
+created: 2026-10-23
+updated: 2026-10-23
 ---
 (EPITA, DNN - Part 1)
 

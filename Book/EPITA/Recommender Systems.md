@@ -1,6 +1,6 @@
 ---
 created: 2026-09-15
-updated: 2026-09-18
+updated: 2026-10-23
 ---
 Goal: match objects to each other (e.g. products to user, user to user, virus mutation to cell).
 
