@@ -1,8 +1,0 @@
----
-created: 2026-10-23
-updated: 2026-10-23
----
-# [[Classification]]
-# [[Regression]]
-# [[Anomalie Detection]]
-# [[Ranking]]
