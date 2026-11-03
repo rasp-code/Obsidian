@@ -1,13 +1,12 @@
 ---
 created: 2026-10-25
-updated: 2026-10-28
+updated: 2026-11-02
 ---
-**Learning** is the process that adjusts the [[Parameters]] $\theta$ of a [[Model]] from [[Data]], by minimizing an objective:
+Any process that adjusts a [[Model]] using [[Data]] so that it gets better at a [[Task]].
 
-$$\theta^* = \arg\min_\theta \; J(\theta) + \lambda\, \Omega(\theta)$$
+## Components
 
-**Components**
-- [[Signal]]: where the learning information comes from.
-- [[Objective]]: what is minimized.
-- [[Algorithm]]: how the parameters are updated.
-- [[Regime]]: how training is organized in phases.
+- [[Signal]]: what feedback guides the learning
+- [[Objective]]: what the learning tries to achieve
+- [[Algorithm]]: how the model is updated step by step
+- [[Regime]]: in what setting the learning takes place

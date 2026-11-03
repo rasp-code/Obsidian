@@ -2,7 +2,7 @@
 created: 2026-10-25
 updated: 2026-10-28
 ---
-**Clustering** is the [[Structure]] task of partitioning the examples of a [[Dataset]] into groups (**clusters**) such that examples in the same cluster are more similar to each other than to those of other clusters.
+**Clustering** is the [[Discovery]] task of partitioning the examples of a [[Dataset]] into groups (**clusters**) such that examples in the same cluster are more similar to each other than to those of other clusters.
 
 **Formulation**
 - Hard clustering: an assignment $c : \mathcal{D} \to \{1, \dots, k\}$; the clusters are disjoint and cover $\mathcal{D}$.

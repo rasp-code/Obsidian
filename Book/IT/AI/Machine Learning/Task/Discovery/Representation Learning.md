@@ -2,7 +2,7 @@
 created: 2026-10-25
 updated: 2026-10-28
 ---
-**Representation learning** is the [[Structure]] task of automatically learning a transformation of the raw [[Input]] into a [[Vector]] (the **representation**, or embedding) that makes other tasks easier:
+**Representation learning** is the [[Discovery]] task of automatically learning a transformation of the raw [[Input]] into a [[Vector]] (the **representation**, or embedding) that makes other tasks easier:
 
 $$r = g_\theta(x)$$
 

@@ -1,9 +1,10 @@
 ---
 created: 2026-10-26
-updated: 2026-10-28
+updated: 2026-11-02
 ---
-**Data** is the set of recorded observations from which a [[Machine Learning]] system learns: the experience $E$.
+The recorded information a system learns from.
 
-**Components**
-- [[Book/IT/AI/Machine Learning/Data/Fundamentals/Fundamentals|Fundamentals]]: the basic objects describing data.
-- [[Data Preprocessing]]: the preparation of raw data for a model.
+## Notions
+
+- [[Fundamentals]]: the basic objects describing data
+- [[Data Preprocessing]]: how data is prepared for learning

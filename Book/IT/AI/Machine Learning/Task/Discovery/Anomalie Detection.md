@@ -2,7 +2,7 @@
 created: 2026-10-25
 updated: 2026-10-28
 ---
-**Anomaly detection** is the [[Structure]] task of identifying examples that deviate significantly from the rest of a [[Dataset]].
+**Anomaly detection** is the [[Discovery]] task of identifying examples that deviate significantly from the rest of a [[Dataset]].
 
 **Formulation**
 - An anomaly score $s(x)$ is computed for each example; $x$ is flagged as anomalous if $s(x)$ exceeds a threshold.

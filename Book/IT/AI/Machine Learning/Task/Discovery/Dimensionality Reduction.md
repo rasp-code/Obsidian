@@ -2,7 +2,7 @@
 created: 2026-10-25
 updated: 2026-10-28
 ---
-**Dimensionality reduction** is the [[Structure]] task of mapping data from a high-dimensional space to a space of lower [[Dimension]], while preserving the relevant information.
+**Dimensionality reduction** is the [[Discovery]] task of mapping data from a high-dimensional space to a space of lower [[Dimension]], while preserving the relevant information.
 
 **Formulation**
 - A [[Function]] $\varphi : \mathbb{R}^D \to \mathbb{R}^d$ with $d < D$, applied to each [[Vector]] of a [[Dataset]].

@@ -1,14 +1,13 @@
 ---
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-02
 ---
-**Prediction** is the category of [[Task|tasks]] that map an [[Input]] to a target, learned from examples with [[Label|labels]]:
+Inferring an unknown output from a known input.
 
-$$f : \mathcal{X} \to \mathcal{Y}$$
+## Types
 
-**Tasks**
-- [[Classification]]: a discrete class.
-- [[Regression]]: a continuous value.
-- [[Forecasting]]: future values of a time series.
-- [[Ranking]]: an order over items.
-- [[Structured Prediction]]: a structured object.
+- [[Classification]]: output is a category
+- [[Regression]]: output is a numerical value
+- [[Forecasting]]: output is a future value
+- [[Ranking]]: output is an order over items
+- [[Structured Prediction]]: output is a structured object (sequence, tree, graph)

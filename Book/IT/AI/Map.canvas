@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"e77d31966832ec60","type":"file","file":"Book/IT/AI/Machine Learning/Machine Learning.md","x":-560,"y":-280,"width":800,"height":520},
+		{"id":"36dd2b86a949fbed","type":"file","file":"Book/IT/AI/Machine Learning/Data/Data.md","x":-960,"y":600,"width":400,"height":400},
+		{"id":"00b06e90c9e40943","type":"file","file":"Book/IT/AI/Machine Learning/Learning/Learning.md","x":240,"y":600,"width":400,"height":400},
+		{"id":"de940c62f8f929e0","type":"file","file":"Book/IT/AI/Machine Learning/Task/Generation.md","x":-2440,"y":1320,"width":400,"height":400},
+		{"id":"2b8bdb66a3069914","type":"file","file":"Book/IT/AI/Machine Learning/Task/Task.md","x":-2440,"y":600,"width":400,"height":400},
+		{"id":"1da7560b05e7617e","type":"file","file":"Book/IT/AI/Machine Learning/Task/Discovery/Discovery.md","x":-1840,"y":1318,"width":400,"height":400},
+		{"id":"7fe32afad00e88e0","type":"file","file":"Book/IT/AI/Machine Learning/Task/Prediction/Prediction.md","x":-3040,"y":1320,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"9d2b1a9d9a18b87b","fromNode":"e77d31966832ec60","fromSide":"bottom","toNode":"00b06e90c9e40943","toSide":"top"},
+		{"id":"1d71bbba5682187c","fromNode":"e77d31966832ec60","fromSide":"bottom","toNode":"2b8bdb66a3069914","toSide":"top"},
+		{"id":"f3096a365c4909ab","fromNode":"e77d31966832ec60","fromSide":"bottom","toNode":"36dd2b86a949fbed","toSide":"top"},
+		{"id":"58cf572fbc8a4b27","fromNode":"2b8bdb66a3069914","fromSide":"bottom","toNode":"7fe32afad00e88e0","toSide":"top"},
+		{"id":"0efcb04acd5ca5a4","fromNode":"2b8bdb66a3069914","fromSide":"bottom","toNode":"de940c62f8f929e0","toSide":"top"},
+		{"id":"da3d91809fdeccc5","fromNode":"2b8bdb66a3069914","fromSide":"bottom","toNode":"1da7560b05e7617e","toSide":"top"}
+	]
+}

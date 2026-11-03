@@ -1,13 +1,11 @@
 ---
 created: 2026-10-25
-updated: 2026-10-28
+updated: 2026-11-02
 ---
-A **task** is what a [[Machine Learning]] system must do: the mapping or structure it must produce from [[Data]].
+What the system is expected to do.
 
-**Categories**
-- [[Prediction]]: map an [[Input]] to a target.
-- [[Structure]]: find structure in unlabeled data.
-- [[Generation]]: produce new samples from the data distribution.
+## Types
 
-**Properties**
-- The task determines the form of the [[Output]], the [[Loss Function]] and the [[Metrics]].
+- [[Prediction]]: infer an unknown output from an input
+- [[Generation]]: create new data
+- [[Discovery]]: uncover the organization hidden in data

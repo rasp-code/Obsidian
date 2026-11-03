@@ -1,18 +1,17 @@
 ---
 created: 2026-09-10
-updated: 2026-10-28
+updated: 2026-11-02
 ---
-**Machine learning** is the field of [[AI]] that studies algorithms that improve their performance on a [[Task]] by learning from [[Data]], instead of being explicitly programmed.
+Any AI approach where a system improves at a task by extracting patterns from data, rather than being explicitly programmed.
 
-**Formal definition (Mitchell)**
-- A program learns from experience $E$ with respect to a task $T$ and a performance measure $P$ if its performance on $T$, measured by $P$, improves with $E$.
+## Components
 
-**Components**
-- [[Data]]: the experience $E$.
-- [[Task]]: what must be done, $T$.
-- [[Model]]: the parameterized function performing the task.
-- [[Learning]]: the process adjusting the model from the data.
-- [[Evaluation]]: the measure of the performance $P$.
+- [[Task]]: what the system must do
+- [[Data]]: what it learns from
+- [[Model]]: what it learns into
+- [[Learning]]: how the model is fitted to the data
+- [[Evaluation]]: how success is measured
 
-**Goal**
-- [[Generalization]]: good performance on data not seen during learning.
+## Flow
+
+[[Data]] → [[Learning]] → [[Model]] → solves [[Task]] → judged by [[Evaluation]]

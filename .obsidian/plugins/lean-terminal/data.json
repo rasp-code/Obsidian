@@ -26,6 +26,13 @@
     {
       "name": "Terminal 1",
       "color": "",
+      "cwd": "/Users/ambroise/Obsidian/Templates",
+      "bufferSerial": "(base) ambroise@macbookair Templates % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   ../.obsidian/app.json\r\n\u001b[8Cmodified:   ../Book/IT/AI/Machine Learning/Machine Learning.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m../Book/IT/AI/Map.canvas\r\n\u001b[8C../Logs/2026-11-02.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n(base) ambroise@macbookair Templates % ls\r\nbase.md\r\n(base) ambroise@macbookair Templates % \u001b[?2004h",
+      "closedAt": 1793633484418
+    },
+    {
+      "name": "Terminal 1",
+      "color": "",
       "cwd": "/Users/ambroise/Obsidian",
       "bufferSerial": "(base) ambroise@macbookair Obsidian % git log\r\n\u001b[33mcommit ea3f65b55265c7ae421fa907bc3fccc386683fe0 (\u001b[36;1mHEAD -> \u001b[32mmain\u001b[33;22m, \u001b[31;1morigin/main\u001b[33;22m)\r\n\u001b[0mAuthor: Ambroise Durst <ambroise.durst@epita.fr>\r\nDate:   Tue Oct 20 12:17:21 2026 +0200\r\n\r\n    vault backup: 2026-10-20 12:17:21\r\n    \r\n    Affected files:\r\n    Logs/2026-10-19.md\r\n\r\n\u001b[33mcommit 751b19bbc7f49bb3635ca1307b4ff1e4158167d9\r\n\u001b[0mAuthor: Ambroise Durst <ambroise.durst@epita.fr>\r\nDate:   Sun Oct 18 19:32:03 2026 +0200\r\n\r\n    vault backup: 2026-10-18 19:32:03\r\n    \r\n    Affected files:\r\n    .obsidian/community-plugins.json\r\n(base) ambroise@macbookair Obsidian % ls\u001b[1CLogs \r\n2026-08-07.md\u001b[3C2026-10-04.md\u001b[3C2026-10-09.md\u001b[3C2026-10-14.md\r\n2026-09-07.md\u001b[3C2026-10-05.md\u001b[3C2026-10-10.md\u001b[3C2026-10-15.md\r\n2026-09-30.md\u001b[3C2026-10-06.md\u001b[3C2026-10-11.md\u001b[3C2026-10-16.md\r\n2026-10-01.md\u001b[3C2026-10-07.md\u001b[3C2026-10-12.md\u001b[3C2026-10-18.md\r\n2026-10-02.md\u001b[3C2026-10-08.md\u001b[3C2026-10-13.md\u001b[3C2026-10-19.md\r\n(base) ambroise@macbookair Obsidian % \u001b[?2004h",
       "closedAt": 1792491576372

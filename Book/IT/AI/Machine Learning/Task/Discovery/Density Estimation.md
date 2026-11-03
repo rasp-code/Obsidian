@@ -2,7 +2,7 @@
 created: 2026-10-25
 updated: 2026-10-28
 ---
-**Density estimation** is the [[Structure]] task of estimating the [[Probability Distribution]] $p(x)$ that generated the examples of a [[Dataset]].
+**Density estimation** is the [[Discovery]] task of estimating the [[Probability Distribution]] $p(x)$ that generated the examples of a [[Dataset]].
 
 **Formulation**
 - Find $\hat{p}(x)$ from samples $x_1, \dots, x_N$ such that $\hat{p}$ approximates $p$.
