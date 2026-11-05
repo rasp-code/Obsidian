@@ -1,6 +1,6 @@
 ---
 created: 2026-10-26
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 The recorded information a system learns from.
 

@@ -1,6 +1,6 @@
 ---
 created: 2026-10-26
-updated: 2026-10-28
+updated: 2026-11-03
 ---
 **Classification** is the [[Prediction]] task of assigning an [[Input]] to one class among a finite set of $K$ categories.
 

@@ -2,7 +2,7 @@
 created: 2026-10-27
 updated: 2026-10-28
 ---
-**Dropout** is a [[Regularization]] technique for [[Neural Network|neural networks]] that randomly deactivates neurons during training.
+**Dropout** is a [[Regularization]] technique for [[Neural Networks|neural networks]] that randomly deactivates neurons during training.
 
 **Principle**
 - At each training step, each neuron is set to $0$ with probability $p$ (the drop rate), and the kept outputs are scaled so that the expected activation is unchanged:

@@ -2,7 +2,7 @@
 created: 2026-10-27
 updated: 2026-10-28
 ---
-**Backpropagation** is the algorithm that computes the [[Gradient]] of the loss with respect to all [[Parameters]] of a [[Neural Network]], by applying the [[Chain Rule]] backward, from the output to the input.
+**Backpropagation** is the algorithm that computes the [[Gradient]] of the loss with respect to all [[Parameters]] of a [[Neural Networks]], by applying the [[Chain Rule]] backward, from the output to the input.
 
 **Steps**
 - Forward pass: compute and store the activations of each layer, then the loss $J$.

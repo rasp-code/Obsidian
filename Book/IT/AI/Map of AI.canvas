@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"a17486cc252ee339","type":"file","file":"Book/IT/AI/Machine Learning/Model/Model.md","x":-440,"y":2320,"width":400,"height":400},
+		{"id":"fdc65426a297b2bc","type":"file","file":"Book/IT/AI/Machine Learning/Model/Model Families/Generalized Linear Models/Generalized Linear Models.md","x":-440,"y":1282,"width":400,"height":400},
+		{"id":"e77d31966832ec60","type":"file","file":"Book/IT/AI/Machine Learning/Machine Learning.md","x":-640,"y":3360,"width":800,"height":520},
+		{"id":"2a5843a89e953e2e","type":"file","file":"Book/IT/AI/Machine Learning/Model/Model Families/Generalized Linear Models/Logistic Regression.md","x":-200,"y":720,"width":400,"height":400},
+		{"id":"dccc1df1b4b8deae","type":"file","file":"Book/IT/AI/Machine Learning/Model/Model Families/Generalized Linear Models/Linear Regression.md","x":-680,"y":720,"width":400,"height":400},
+		{"id":"7fe32afad00e88e0","type":"file","file":"Book/IT/AI/Machine Learning/Task/Prediction/Prediction.md","x":-7040,"y":1282,"width":400,"height":400},
+		{"id":"de940c62f8f929e0","type":"file","file":"Book/IT/AI/Machine Learning/Task/Generation.md","x":-6240,"y":1282,"width":400,"height":400},
+		{"id":"2b8bdb66a3069914","type":"file","file":"Book/IT/AI/Machine Learning/Task/Task.md","x":-6240,"y":2320,"width":400,"height":400},
+		{"id":"1da7560b05e7617e","type":"file","file":"Book/IT/AI/Machine Learning/Task/Discovery/Discovery.md","x":-5440,"y":1282,"width":400,"height":400},
+		{"id":"36dd2b86a949fbed","type":"file","file":"Book/IT/AI/Machine Learning/Data/Data.md","x":-3360,"y":2320,"width":400,"height":400},
+		{"id":"00b06e90c9e40943","type":"file","file":"Book/IT/AI/Machine Learning/Learning/Learning.md","x":2560,"y":2320,"width":400,"height":400},
+		{"id":"0a3bf7cabb96c9e6","type":"file","file":"Book/IT/AI/Machine Learning/Model/Model Families/Neural Networks/Neural Networks.md","x":-1920,"y":1282,"width":400,"height":400},
+		{"id":"0e0b3caaa8dfa28b","type":"file","file":"Book/IT/AI/Machine Learning/Model/Model Families/Tree-based Models/Tree-based Models.md","x":1120,"y":1282,"width":400,"height":400},
+		{"id":"ff1ef2f8722dda1a","type":"file","file":"Book/IT/AI/Machine Learning/Model/Model Families/Tree-based Models/Decision Tree.md","x":1120,"y":720,"width":400,"height":400},
+		{"id":"3cc742e6f4785bf2","type":"file","file":"Book/IT/AI/Machine Learning/Model/Model Families/Tree-based Models/Random Forest.md","x":1440,"y":240,"width":400,"height":400},
+		{"id":"89d384e806e4b08f","type":"file","file":"Book/IT/AI/Machine Learning/Model/Model Families/Tree-based Models/Gradient Boosted Tree.md","x":800,"y":240,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"79f2295b0549d707","fromNode":"a17486cc252ee339","fromSide":"top","toNode":"fdc65426a297b2bc","toSide":"bottom"},
+		{"id":"4fd2f215eb55b762","fromNode":"e77d31966832ec60","fromSide":"top","toNode":"a17486cc252ee339","toSide":"bottom"},
+		{"id":"24543877437ac7cd","fromNode":"e77d31966832ec60","fromSide":"top","toNode":"36dd2b86a949fbed","toSide":"bottom"},
+		{"id":"fbe416fc1c01f3a8","fromNode":"e77d31966832ec60","fromSide":"top","toNode":"2b8bdb66a3069914","toSide":"bottom"},
+		{"id":"a4bb9de73e746b61","fromNode":"2b8bdb66a3069914","fromSide":"top","toNode":"7fe32afad00e88e0","toSide":"bottom"},
+		{"id":"32d63e5dc010a8d7","fromNode":"2b8bdb66a3069914","fromSide":"top","toNode":"de940c62f8f929e0","toSide":"bottom"},
+		{"id":"0e09311dd822ddf5","fromNode":"2b8bdb66a3069914","fromSide":"top","toNode":"1da7560b05e7617e","toSide":"bottom"},
+		{"id":"7650528e0c45b457","fromNode":"a17486cc252ee339","fromSide":"top","toNode":"0a3bf7cabb96c9e6","toSide":"bottom"},
+		{"id":"c5900520a4eb7330","fromNode":"a17486cc252ee339","fromSide":"top","toNode":"0e0b3caaa8dfa28b","toSide":"bottom"},
+		{"id":"201a4b2f42f45a83","fromNode":"e77d31966832ec60","fromSide":"top","toNode":"00b06e90c9e40943","toSide":"bottom"},
+		{"id":"71154c8e63cdbc43","fromNode":"fdc65426a297b2bc","fromSide":"top","toNode":"dccc1df1b4b8deae","toSide":"bottom"},
+		{"id":"d2f50666bffa4d07","fromNode":"fdc65426a297b2bc","fromSide":"top","toNode":"2a5843a89e953e2e","toSide":"bottom"},
+		{"id":"e42993672846cbc6","fromNode":"0e0b3caaa8dfa28b","fromSide":"top","toNode":"ff1ef2f8722dda1a","toSide":"bottom"},
+		{"id":"e5be431b4583fdf5","fromNode":"0e0b3caaa8dfa28b","fromSide":"right","toNode":"3cc742e6f4785bf2","toSide":"bottom"},
+		{"id":"952496f042a5e2aa","fromNode":"0e0b3caaa8dfa28b","fromSide":"left","toNode":"89d384e806e4b08f","toSide":"bottom"},
+		{"id":"bef6f696eec20421","fromNode":"ff1ef2f8722dda1a","fromSide":"top","toNode":"89d384e806e4b08f","toSide":"right"},
+		{"id":"ebeb3806e198900a","fromNode":"ff1ef2f8722dda1a","fromSide":"top","toNode":"3cc742e6f4785bf2","toSide":"left"}
+	]
+}
