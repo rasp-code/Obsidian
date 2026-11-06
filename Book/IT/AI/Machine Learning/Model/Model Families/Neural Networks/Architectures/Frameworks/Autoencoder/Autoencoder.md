@@ -1,6 +1,6 @@
 ---
 created: 2026-10-23
-updated: 2026-10-28
+updated: 2026-11-05
 ---
 An **autoencoder** is a [[Neural Networks]] trained to reconstruct its input through a lower-dimensional bottleneck, to learn a compact representation:
 
